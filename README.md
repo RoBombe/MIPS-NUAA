@@ -1,2 +1,2 @@
-MIPS-DB-NUAA
-============
+MIPS-NUAA
+=========
